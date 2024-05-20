@@ -1,3 +1,7 @@
-# MICA-ASPIRE
-This is the original MISC coding of 20 digital twins from ASPIRE trial
-We tested identical MICA prompts using two leading LLMs:  GPT-4 and Claude-Opus. We had these LLMs generate transcripts of brief counseling sessions between MICA and digital twins of 92 young adults from the ASPIRE trial. We evaluated MI adherence based on the Motivational Interviewing Skill Code (MISC) Manual, coding each therapist utterance as Question (Q; open or closed), Input (I; Information, Advice, Negotiation, or Options), Reflection (R; simple or complex), or Other (O).  As well, we rated each transcript with global scores to characterize the overall quality of the interaction (scores 1 to 5) across four dimensions, namely Cultivating Change Talk, Softening Sustain Talk, Partnership, and Empathy.
+# MICA
+Contained within are the following:
+1. LLM prompts for MICA: A conversational agent focused on helping young adults reduce hazardous alcohol consumption
+2. LLM prompts for MISC coding of therapy sessions
+3. LLM prompts and "seeds" for digital twins of 20 ASPIRE participants
+4. An excel file with MISC coding of 20 sessions by GPT-4 and Claude-Opus
+
